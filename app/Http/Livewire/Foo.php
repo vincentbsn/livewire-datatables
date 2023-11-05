@@ -8,7 +8,7 @@ class Foo extends LivewireDatatable
 {
     public function builder()
     {
-        //
+        dd('toto');
     }
 
     public function columns()
